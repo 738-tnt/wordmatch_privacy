@@ -78,19 +78,19 @@ To delete user data collected by “TnT-Games”, please reach out to “738.tnt
 
 If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
 
-GameAnalytics:
+GameAnalytics:  
 email: privacy@gameanalytics.com  
 privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
 
-Facebook Analytics:
+Facebook Analytics:  
 email: none, please refer to the privacy policy  
 privacy policy: https://www.facebook.com/policy.php
 
-Adjust:
+Adjust:  
 email: privacy@adjust.com  
 privacy policy: https://www.adjust.com/terms/privacy-policy/
 
-Voodoo:
+Voodoo:  
 Voodoo does not collect any of your personal data and only provides an SDK package to retrieve the data collected by the above-mentioned partners. You can still contact them to request the deletion of their access to the partners’ interfaces.  
 email: dpo@voodoo.io
 
