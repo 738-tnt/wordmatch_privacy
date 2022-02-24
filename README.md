@@ -56,7 +56,40 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 **Request user data deletion**
 
-Note: Make sure to replace each “Studio Name” mentioned with your actual studio name, and replace the “provided contact email” with an email address on which you would like to get contacted regarding the deletion of data you may have collected.
+When you install and use “Tnt-Games” mobile applications, we can collect and process some of your data for different legitimate purposes.
+
+You will find below explanations regarding the reasons why we may collect data. 
+
+Why is data collected?
+
+“TnT-Games” and its third-party partners collect data: 
+
+To provide you with the services you asked for
+To run analytics and understand how users interact with our product and services to improve them continuously
+The third-party partners that “Studio Name” will share the data with are: 
+
+GameAnalytics
+Facebook Analytics
+Adjust
+Voodoo
+Data deletion requests
+
+To delete user data collected by “TnT-Games”, please reach out to “738.tnt@gmail.com”.
+
+If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
+
+*GameAnalytics:*
+email: privacy@gameanalytics.com 
+privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
+Facebook Analytics:
+email: none, please refer to the privacy policy
+privacy policy: https://www.facebook.com/policy.php
+Adjust:
+email: privacy@adjust.com 
+privacy policy: https://www.adjust.com/terms/privacy-policy/ 
+Voodoo:
+Voodoo does not collect any of your personal data and only provides an SDK package to retrieve the data collected by the above-mentioned partners. You can still contact them to request the deletion of their access to the partners’ interfaces.
+email: dpo@voodoo.io
 
 **Changes to This Privacy Policy**
 
